@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot should return correct object 1`] = `
+Object {
+  "aa": 1,
+  "bb": 2,
+  "cc": 3,
+}
+`;
