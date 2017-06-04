@@ -8,4 +8,6 @@ In terminal, run `npm i`.
 
 ## Test
 
-In terminal, run `npm t`.
+In terminal, run `npm t` to test.
+
+In terminal, run `npm run watch:test` to test and watch test files.
