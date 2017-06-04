@@ -19,7 +19,12 @@
     "express": "^4.15.3"
   },
   "jest": {
+    "testEnvironment": "node",
     "verbose": true,
+    "collectCoverageFrom": [
+      "src/*.js",
+      "src/**/*.js"
+    ],
     "coverageReporters": [
       "json",
       "lcov",
