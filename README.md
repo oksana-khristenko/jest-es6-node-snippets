@@ -4,8 +4,8 @@ Spies, stubs, async, promises etc.
 
 ## Install
 
-In terminal, run `npm install`.
+In terminal, run `npm i`.
 
 ## Test
 
-In terminal, run `npm run test`.
+In terminal, run `npm t`.
